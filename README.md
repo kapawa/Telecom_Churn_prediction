@@ -107,6 +107,8 @@ Telecom_Churn_prediction/
 │   └── Telecom_Churn_Prediction.ipynb
 │
 └── README.md
+│
+└── requirements.txt
 ```
 
 ## How to Run
